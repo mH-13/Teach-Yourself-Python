@@ -1,4 +1,4 @@
-
+#string reverse
 def check_Palindrome(strng):
     strng1 = ''
     strng2 = ''
